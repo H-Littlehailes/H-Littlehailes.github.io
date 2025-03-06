@@ -2,44 +2,35 @@
   type: map
   contents:
     - name: Full Name
-      value: Hugh
-    - name: Date of Birth
-      value: 
-    - name: Languages
-      value: English
-
+      value: Hugh Littlehailes
+    - Job:
+      value: Scientist / data analyst
+    - E-mail:
+      value: hugh.littlehailes@googlemail.com
+    - URL:
+      value:https://H-Littlehailes.github.io
 - title: Education
   type: time_table
   contents:
-    - title: PhD, Physics (Photonic Integration and Advanced Data Storage
+    - title: PhD, Physics (Photonic Integration and Advanced Data Storage)
       institution: Queens University Belfast & The University of Glasgow
       year: 2023
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+      
     - title: PGCert in Innovation and Entrepreneurship
       institution: Trinity College Dublin | University College Dublin | Queens University Belfast
       year: 2019
-      description:
-        - Description 1.
-        - Description 2.
+      
     - title: BSc Hons, Physics with Astrophysics
       institution: The University of Glasgow
       year: 2017
-      description:
-        - Description 1.
-        - Description 2.
-
+            
 - title: Experience
   type: time_table
   contents:
     - title: Post-doctoral research associate
       institution: The University of Sheffield
-      year: Apr. 2023 - Aug. 2024 (FTC)
+      year: Apr. 2023 -
+      Aug. 2024 (FTC)
       description:
         - Description 1.
         - Description 2.
