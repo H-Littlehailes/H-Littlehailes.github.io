@@ -7,7 +7,7 @@ first_name: Hugh
 middle_name:
 last_name: Littlehailes    
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  The views expressed here are my own and do not represent those of any corporate affiliation / employer.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A personal website for Hugh Littlehailes based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -107,8 +107,6 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
-
-contact_note: 
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
