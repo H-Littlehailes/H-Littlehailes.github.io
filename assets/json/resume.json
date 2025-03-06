@@ -44,13 +44,24 @@
   "education": [
     {
       "institution": "Queens University Belfast & University of Glasgow",
-      "location": "Belfast & Glasgow",
+      "location": "Belfast, Northern Ireland & Glasgow, Scotland",
       "url": "",
       "area": "Physics (Photonic Integration and Advanced Data Storage)",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "endDate": "2023",
       "score": "",
+      "courses": [""]
+    }
+    
+    {
+      "institution": "University of Glasgow",
+      "location": "Glasgow, Scotland",
+      "url": "",
+      "area": "Physics with Astrophysics",
+      "studyType": "BSc Hons",
+      "startDate": "2013-09",
+      "endDate": "2017-06",
+      "score": "2:1",
       "courses": [""]
     }
   ],
