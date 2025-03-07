@@ -3,10 +3,12 @@ github_users:
   
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  #- alshedivat/al-folio
+  - H-Littlehailes/iCoatings_FBG
+  - H-Littlehailes/Plasmonics
+  - H-Littlehailes/Image_Analysis
+  #- twbs/bootstrap
+  #- jquery/jquery
+  #- FortAwesome/Font-Awesome
+  #- mathjax/MathJax
+  #- jpswalsh/academicons
