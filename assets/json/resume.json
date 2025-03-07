@@ -44,10 +44,11 @@
   "education": [
     {
       "institution": "Queens University Belfast & University of Glasgow",
-      "location": "Belfast, Northern Ireland & Glasgow, Scotland",
+      "location": "Belfast, Northern Ireland & \n Glasgow, Scotland",
       "url": "",
       "area": "Physics (Photonic Integration and Advanced Data Storage)",
       "studyType": "PhD",
+      "startDate": "2018-09",
       "endDate": "2023",
       "score": "",
       "courses": [""]
@@ -66,6 +67,13 @@
   ],
 
   "publications": [
+    
+    { "name": "Alternative plasmonic materials and techniques for high temperature application and beyond",
+      "publisher": "PhD Thesis",
+      "releaseDate": "2023-07",
+      "url": "https://pure.qub.ac.uk/en/studentTheses/alternative-plasmonic-materials-and-techniques-for-high-temperatu",
+      "summary": ""
+    },
     {
       "name": "Optical properties of Au-Hf thin films",
       "publisher": "Journal of Alloys and Compounds",
@@ -99,13 +107,13 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "English",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "Scottish Gaelic",
+      "fluency": "In progress",
       "icon": ""
     }
   ],
