@@ -26,7 +26,7 @@
       "url": "",
       "startDate": "2023-04-19",
       "endDate": "2024-07-31",
-      "summary": "",
+      "summary": "Senior researcher investigating sensor fusion frameworks for advanced manufacturing processes, as part of a 5-university consortium.",
       "highlights": [""]
     },
     {
@@ -35,7 +35,7 @@
       "url": "",
       "startDate": "2022-01-10",
       "endDate": "2024-04-14",
-      "summary": "",
+      "summary": "Senior process engineer responsible for sputter deposition and ion-beam etch processes and improvement for existing products, and seconded to help the integration of highest priority R&D components and manufacturing processes.",
       "highlights": [""]
     }
   ],
@@ -90,16 +90,28 @@
     
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Nanofabrication",
+      "level": "Experienced",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "DC Magnetron sputter",
+        "E-beam evaporation",
+        "Ion-beam etch",
+        "Spin-coating",
+        "Electron beam lithography",
+        "Wet-etch"]
+      "name": "Characterisation",
+      "level": "Experienced",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "SEM",
+        "TEM",
+        "Energy dispersive X-ray spectroscopy",
+        "Electron energy loss spectroscopy",
+        "X-ray diffraction",
+        "Spectroscopic ellipsometry" ,
+        "Reflection spectroscopy",
+        "Atomic force microscopy"
       ]
     }
   ],
@@ -120,12 +132,7 @@
       "name": "Physics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        ""
       ]
     }
   ],
