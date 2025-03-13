@@ -99,7 +99,7 @@
         "Ion-beam etch",
         "Spin-coating",
         "Electron beam lithography",
-        "Wet-etch"]
+        "Wet-etch"],
       "name": "Characterisation",
       "level": "Experienced",
       "icon": "fa-solid fa-hashtag",
@@ -109,7 +109,7 @@
         "Energy dispersive X-ray spectroscopy",
         "Electron energy loss spectroscopy",
         "X-ray diffraction",
-        "Spectroscopic ellipsometry" ,
+        "Spectroscopic ellipsometry",
         "Reflection spectroscopy",
         "Atomic force microscopy"
       ]
