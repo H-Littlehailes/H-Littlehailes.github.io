@@ -46,7 +46,7 @@
       "url": "",
       "area": "Physics (Photonic Integration and Advanced Data Storage)",
       "studyType": "PhD",
-      "startDate": "2018-09",
+      "startDate": "2018-09-14",
       "endDate": "2023",
       "score": "",
       "courses": [""]
@@ -94,24 +94,24 @@
       "level": "Experienced",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "DC Magnetron sputter",
-        "E-beam evaporation",
-        "Ion-beam etch",
-        "Spin-coating",
-        "Electron beam lithography",
-        "Wet-etch"],
+        "- DC Magnetron sputter",
+        "- E-beam evaporation",
+        "- Ion-beam etch",
+        "- Spin-coating",
+        "- Electron beam lithography",
+        "- Wet-etch"],
       "name": "Characterisation",
       "level": "Experienced",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "SEM",
-        "TEM",
-        "Energy dispersive X-ray spectroscopy",
-        "Electron energy loss spectroscopy",
-        "X-ray diffraction",
-        "Spectroscopic ellipsometry",
-        "Reflection spectroscopy",
-        "Atomic force microscopy"
+        "- SEM",
+        "- TEM",
+        "- Energy dispersive X-ray spectroscopy",
+        "- Electron energy loss spectroscopy",
+        "- X-ray diffraction",
+        "- Spectroscopic ellipsometry",
+        "- Reflection spectroscopy",
+        "- Atomic force microscopy"
       ]
     }
   ],
