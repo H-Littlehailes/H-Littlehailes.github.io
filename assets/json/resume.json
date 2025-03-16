@@ -90,7 +90,7 @@
     
   "skills": [
     {
-      "name": "Nanofabrication",
+      "name": "Nanofabrication & Characterisation",
       "level": "Experienced",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
@@ -99,11 +99,7 @@
         "- Ion-beam etch",
         "- Spin-coating",
         "- Electron beam lithography",
-        "- Wet-etch"],
-      "name": "Characterisation",
-      "level": "Experienced",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
+        "- Wet-etch",
         "- SEM",
         "- TEM",
         "- Energy dispersive X-ray spectroscopy",
